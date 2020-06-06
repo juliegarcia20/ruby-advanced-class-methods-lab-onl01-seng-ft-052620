@@ -58,4 +58,5 @@ def self.create
     self.all.clear
   end
 
-end	end
+end	
+ end 
